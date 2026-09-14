@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi , I'm Deepanshu Saini
 
-<!--
-**deepanshu-Builds/deepanshu-Builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Full-Stack MERN Developer 
 
-Here are some ideas to get you started:
+I'm a Full-Stack Developer focused on building responsive, scalable, and user-friendly web applications using the MERN stack.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy turning ideas into real-world applications and continuously improving my skills in modern web technologies.
+
+---
+
+ Tech Stack
+
+**Frontend**
+- HTML
+- CSS
+- JavaScript
+- React.js
+
+**Backend**
+- Node.js
+- Express.js
+
+**Database**
+- MongoDB
+
+**Tools**
+- Git
+- GitHub
+- VS Code
+
+---
+
+##  Featured Projects
+
+###  FlowMail
+A full-stack email management application built with React, Node.js, Express.js, and MongoDB.
+
+###  ConnectHub
+A real-time chat application built using Node.js, Express.js, and Socket.IO.
+
+---
+
+ Currently Learning
+
+- Advanced MERN Stack
+- REST APIs
+- Authentication & Authorization
+- Real-time applications with Socket.IO
+- Deployment & Cloud technologies
+
+---
+
+ Feel free to explore my repositories and projects!
