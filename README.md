@@ -7,9 +7,7 @@
   I enjoy turning ideas into real-world applications and continuously improving my skills in modern web technologies.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/deepanshu-Builds/readme" alt="profile views"/>
-</p>
+
 
 ---
 
