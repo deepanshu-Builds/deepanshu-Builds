@@ -17,9 +17,9 @@
   <a href="https://www.linkedin.com/in/deepanshusaini0021" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:deepanshu1580@gmail.com">
+   <a href="mailto:deepanshu1580@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  </a> 
  
 </p>
 
@@ -77,9 +77,9 @@
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-Builds&theme=radical&hide_border=true" />
 </p>
 
-<p align="left">
+<!-- <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-Builds&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
-</p>
+</p> -->
 
 ---
 
