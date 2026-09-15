@@ -73,12 +73,12 @@
 ###  GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepanshu-Builds&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://streak-stats.demolab.com/?user=deepanshu-Builds&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=deepanshu-Builds&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400&count_private=true" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-Builds&theme=radical&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-Builds&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-Builds&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" />
 </p>
 
 ---
