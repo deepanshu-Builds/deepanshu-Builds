@@ -44,13 +44,4 @@ On the frontend I work with React, and on the backend I use Node.js and Express 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## GitHub Statistics
-
-<p align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshu-Builds" 
-    alt="GitHub Streak Statistics"
-  />
-</p>
-
 
