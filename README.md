@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a BCA student and aspiring Full-Stack Developer passionate about building web applications and learning new technologies. Currently exploring the MERN stack and working on projects to improve my development skills.
+My name is Deepanshu Saini and I'm a BCA student and aspiring Full-Stack Developer passionate about building web applications and learning new technologies. Currently exploring the MERN stack and working on projects to improve my development skills.
 
 
 # 💻 Tech Stack:
